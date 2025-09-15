@@ -15,7 +15,7 @@ You can view the interactive dashboard here:
 
 ## 📂 Repository Contents
 - `Netflix_Dashboard.twbx` – Tableau Packaged Workbook file  
-- `netflix_titles.csv` – Dataset used (if included)  
+- `netflix_titles(1).csv` – Dataset used  
 - `README.md` – Project documentation  
 
 ## 🛠 Tools Used
