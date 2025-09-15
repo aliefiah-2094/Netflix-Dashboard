@@ -7,7 +7,11 @@ The dashboard provides insights into Netflix content, including:
 - 🎬 Distribution of Movies vs TV Shows  
 - 🌍 Titles by country  
 - ⭐ Ratings distribution  
-- ⏱ Duration of content  
+- ⏱ Duration of content
+
+
+## 📊 Dashboard Preview
+![Netflix Dashboard Preview](dashboard_preview.png)
 
 ## 🔗 Live Dashboard
 You can view the interactive dashboard here:  
