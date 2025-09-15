@@ -11,7 +11,7 @@ The dashboard provides insights into Netflix content, including:
 
 
 ## 📊 Dashboard Preview
-![Netflix Dashboard Preview](dashboard.png)
+![Netflix Dashboard Preview](Dashboard.png)
 
 ## 🔗 Live Dashboard
 You can view the interactive dashboard here:  
