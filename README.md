@@ -18,7 +18,7 @@ You can view the interactive dashboard here:
 👉 [Netflix Tableau Dashboard](https://public.tableau.com/views/Book1_17579606308420/Netflix?:language=en-US&publish=yes)
 
 ## 📂 Repository Contents
-- `Netflix_Dashboard.twbx` – Tableau Packaged Workbook file  
+- `Netflix_Dashboard.twb` – Tableau Packaged Workbook file  
 - `netflix_titles(1).csv` – Dataset used  
 - `README.md` – Project documentation  
 
