@@ -20,7 +20,8 @@ You can view the interactive dashboard here:
 ## 📂 Repository Contents
 - `Netflix_Dashboard.twb` – Tableau Packaged Workbook file  
 - `netflix_titles(1).csv` – Dataset used  
-- `README.md` – Project documentation  
+- `README.md` – Project documentation
+- 'logo.jpeg' - Netflix logo
 
 ## 🛠 Tools Used
 - Tableau Public (for visualization)  
